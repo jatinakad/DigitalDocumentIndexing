@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# DigitalDocumentIndexing
-=======
 # Digital Document Indexing System
 
 An AI-powered system for extracting structured data and metadata from digital documents using OCR and machine learning.
